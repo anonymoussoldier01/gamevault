@@ -1,0 +1,5228 @@
+[
+ {
+  "slug": "subway",
+  "status": 200,
+  "len": 1316,
+  "fails": []
+ },
+ {
+  "slug": "slope",
+  "status": 200,
+  "len": 2294,
+  "fails": []
+ },
+ {
+  "slug": "minecraft",
+  "status": 200,
+  "len": 1209,
+  "fails": []
+ },
+ {
+  "slug": "buckshot",
+  "status": 200,
+  "len": 6444,
+  "fails": []
+ },
+ {
+  "slug": "polytrack",
+  "status": 200,
+  "len": 388,
+  "fails": []
+ },
+ {
+  "slug": "retrobowl",
+  "status": 200,
+  "len": 3848,
+  "fails": []
+ },
+ {
+  "slug": "fnaf1",
+  "status": 200,
+  "len": 11367,
+  "fails": []
+ },
+ {
+  "slug": "geometrydash",
+  "status": 200,
+  "len": 6219,
+  "fails": []
+ },
+ {
+  "slug": "motox3m",
+  "status": 200,
+  "len": 2206,
+  "fails": []
+ },
+ {
+  "slug": "eaglercraft",
+  "status": 200,
+  "len": 7227,
+  "fails": []
+ },
+ {
+  "slug": "suika",
+  "status": 200,
+  "len": 4275,
+  "fails": []
+ },
+ {
+  "slug": "spelunky-classic-hd",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "moto-x3m-spooky-land",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "choppy-orc-autosplitter",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddys-5",
+  "status": 200,
+  "len": 8963,
+  "fails": []
+ },
+ {
+  "slug": "worlds-hardest-game",
+  "status": 200,
+  "len": 8961,
+  "fails": []
+ },
+ {
+  "slug": "highway-rider-extreme",
+  "status": 200,
+  "len": 8959,
+  "fails": []
+ },
+ {
+  "slug": "peopleplayground",
+  "status": 200,
+  "len": 1395,
+  "fails": []
+ },
+ {
+  "slug": "stick-merge-2",
+  "status": 200,
+  "len": 8946,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddys-3",
+  "status": 200,
+  "len": 8963,
+  "fails": []
+ },
+ {
+  "slug": "infinite-soccer",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "star-wars-jedi-knight-dark-forces-2",
+  "status": 200,
+  "len": 9225,
+  "fails": []
+ },
+ {
+  "slug": "arthur-s-nightmare",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "stormthehouse2",
+  "status": 200,
+  "len": 944,
+  "fails": []
+ },
+ {
+  "slug": "parking-fury-2",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "i-wanna-be-the-guy",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "zombsroyale-official",
+  "status": 200,
+  "len": 7994,
+  "fails": []
+ },
+ {
+  "slug": "pvz",
+  "status": 200,
+  "len": 1334,
+  "fails": []
+ },
+ {
+  "slug": "duke-nukem-3d-tg",
+  "status": 200,
+  "len": 9810,
+  "fails": []
+ },
+ {
+  "slug": "breakingthebank",
+  "status": 200,
+  "len": 948,
+  "fails": []
+ },
+ {
+  "slug": "neon-racer",
+  "status": 200,
+  "len": 8931,
+  "fails": []
+ },
+ {
+  "slug": "moto-x3m-5-pool-party",
+  "status": 200,
+  "len": 8971,
+  "fails": []
+ },
+ {
+  "slug": "burritobison",
+  "status": 200,
+  "len": 8662850,
+  "fails": []
+ },
+ {
+  "slug": "rubiks-cube",
+  "status": 200,
+  "len": 1552452,
+  "fails": []
+ },
+ {
+  "slug": "douchebag-workout-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "3d-bowling",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "truck-trials",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "ballerburg-sdl",
+  "status": 200,
+  "len": 4170,
+  "fails": []
+ },
+ {
+  "slug": "bejeweled-twist",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "sonic-exe-original",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "papas-pizzeria",
+  "status": 200,
+  "len": 8684,
+  "fails": []
+ },
+ {
+  "slug": "bloonstd",
+  "status": 200,
+  "len": 932,
+  "fails": []
+ },
+ {
+  "slug": "awesome-tanks-2",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "adam-and-eve-51",
+  "status": 200,
+  "len": 8955,
+  "fails": []
+ },
+ {
+  "slug": "deltatraveler",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "descent",
+  "status": 200,
+  "len": 1056,
+  "fails": []
+ },
+ {
+  "slug": "nblood",
+  "status": 200,
+  "len": 12138,
+  "fails": []
+ },
+ {
+  "slug": "beatblock",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "robot-unicorn-attack-heavy-metal",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school",
+  "status": 200,
+  "len": 627624,
+  "fails": []
+ },
+ {
+  "slug": "circloo",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "8-ball-pool",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "helltaker",
+  "status": 200,
+  "len": 31548,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-epstein-s",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "diceamillion",
+  "status": 200,
+  "len": 5488,
+  "fails": []
+ },
+ {
+  "slug": "adrenalinechallenge",
+  "status": 200,
+  "len": 976,
+  "fails": []
+ },
+ {
+  "slug": "overburden",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "neon-biker",
+  "status": 200,
+  "len": 8931,
+  "fails": []
+ },
+ {
+  "slug": "fearandhunger",
+  "status": 200,
+  "len": 6356,
+  "fails": []
+ },
+ {
+  "slug": "ac-gamecube",
+  "status": 200,
+  "len": 48396,
+  "fails": []
+ },
+ {
+  "slug": "badtime",
+  "status": 200,
+  "len": 5303,
+  "fails": []
+ },
+ {
+  "slug": "fireboy-and-watergirl",
+  "status": 200,
+  "len": 8972,
+  "fails": []
+ },
+ {
+  "slug": "cookie-clicker-2",
+  "status": 200,
+  "len": 8955,
+  "fails": []
+ },
+ {
+  "slug": "red-ball-4",
+  "status": 200,
+  "len": 8936,
+  "fails": []
+ },
+ {
+  "slug": "bloons-super-monkey",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "dos-zone",
+  "status": 200,
+  "len": 316627,
+  "fails": []
+ },
+ {
+  "slug": "frickbears3",
+  "status": 200,
+  "len": 75773,
+  "fails": []
+ },
+ {
+  "slug": "sand-game",
+  "status": 200,
+  "len": 4272,
+  "fails": []
+ },
+ {
+  "slug": "icycle",
+  "status": 200,
+  "len": 8661,
+  "fails": []
+ },
+ {
+  "slug": "word-slide",
+  "status": 200,
+  "len": 8938,
+  "fails": []
+ },
+ {
+  "slug": "20-minutes-till-dawn",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "time-shooter-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "angrybirds",
+  "status": 200,
+  "len": 4223,
+  "fails": []
+ },
+ {
+  "slug": "endoparasitic",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "volleyrandom",
+  "status": 200,
+  "len": 1136,
+  "fails": []
+ },
+ {
+  "slug": "minicraft",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "t-t-cubed",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "bat-to-the-heavens",
+  "status": 200,
+  "len": 4855,
+  "fails": []
+ },
+ {
+  "slug": "hayai",
+  "status": 200,
+  "len": 3590,
+  "fails": []
+ },
+ {
+  "slug": "slither-official",
+  "status": 200,
+  "len": 14449,
+  "fails": []
+ },
+ {
+  "slug": "canyondefense",
+  "status": 200,
+  "len": 938,
+  "fails": []
+ },
+ {
+  "slug": "fancy-pants-3",
+  "status": 200,
+  "len": 8720,
+  "fails": []
+ },
+ {
+  "slug": "pizzeria",
+  "status": 200,
+  "len": 2842151,
+  "fails": []
+ },
+ {
+  "slug": "snowrider",
+  "status": 200,
+  "len": 1083,
+  "fails": []
+ },
+ {
+  "slug": "repo",
+  "status": 200,
+  "len": 1201,
+  "fails": []
+ },
+ {
+  "slug": "the-man-in-the-window",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "cave-story",
+  "status": 200,
+  "len": 5028,
+  "fails": []
+ },
+ {
+  "slug": "pacman-html5",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "achievement-unlocked",
+  "status": 200,
+  "len": 2499931,
+  "fails": []
+ },
+ {
+  "slug": "flappybasketball",
+  "status": 200,
+  "len": 1648,
+  "fails": []
+ },
+ {
+  "slug": "stardew",
+  "status": 200,
+  "len": 12503,
+  "fails": []
+ },
+ {
+  "slug": "moto-x3m-4-winter",
+  "status": 200,
+  "len": 8957,
+  "fails": []
+ },
+ {
+  "slug": "dude-simulator",
+  "status": 200,
+  "len": 1282,
+  "fails": []
+ },
+ {
+  "slug": "gswitch",
+  "status": 200,
+  "len": 5725,
+  "fails": []
+ },
+ {
+  "slug": "jsab",
+  "status": 200,
+  "len": 5224,
+  "fails": []
+ },
+ {
+  "slug": "santa-run-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "basket",
+  "status": 200,
+  "len": 1278,
+  "fails": []
+ },
+ {
+  "slug": "geometry-dash",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "kindergarten",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "asylum",
+  "status": 200,
+  "len": 5916,
+  "fails": []
+ },
+ {
+  "slug": "ragdollhit",
+  "status": 200,
+  "len": 1649,
+  "fails": []
+ },
+ {
+  "slug": "the-fancy-pants-adventures-remix",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "sonic2-community-cut-webport",
+  "status": 200,
+  "len": 7782,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-3",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "chill-radio",
+  "status": 200,
+  "len": 3040,
+  "fails": []
+ },
+ {
+  "slug": "wordle-unlimited",
+  "status": 200,
+  "len": 8956,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-4-halloween",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "boxhead2play",
+  "status": 200,
+  "len": 929,
+  "fails": []
+ },
+ {
+  "slug": "sm64",
+  "status": 200,
+  "len": 2106,
+  "fails": []
+ },
+ {
+  "slug": "cluster",
+  "status": 200,
+  "len": 1291,
+  "fails": []
+ },
+ {
+  "slug": "crueltysquad",
+  "status": 200,
+  "len": 6649,
+  "fails": []
+ },
+ {
+  "slug": "just-one-boss",
+  "status": 200,
+  "len": 5308,
+  "fails": []
+ },
+ {
+  "slug": "repuls-official",
+  "status": 200,
+  "len": 27846,
+  "fails": []
+ },
+ {
+  "slug": "csgo-clicker",
+  "status": 200,
+  "len": 11174,
+  "fails": []
+ },
+ {
+  "slug": "run3",
+  "status": 200,
+  "len": 2553,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-7",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "basket-and-ball",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "swingo",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "gats-official",
+  "status": 200,
+  "len": 29202,
+  "fails": []
+ },
+ {
+  "slug": "g-switch",
+  "status": 200,
+  "len": 8932,
+  "fails": []
+ },
+ {
+  "slug": "cloud-platformer-fun",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "roper",
+  "status": 200,
+  "len": 8919,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-5",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "jstetris",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "picohot",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "tetris-flash",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "super-liquid-soccer",
+  "status": 200,
+  "len": 8964,
+  "fails": []
+ },
+ {
+  "slug": "bob-the-robber-2",
+  "status": 200,
+  "len": 8953,
+  "fails": []
+ },
+ {
+  "slug": "extreme-pamplona",
+  "status": 200,
+  "len": 8690,
+  "fails": []
+ },
+ {
+  "slug": "pou",
+  "status": 200,
+  "len": 8913,
+  "fails": []
+ },
+ {
+  "slug": "supermario63",
+  "status": 200,
+  "len": 15296594,
+  "fails": []
+ },
+ {
+  "slug": "papaspizzaria",
+  "status": 200,
+  "len": 939,
+  "fails": []
+ },
+ {
+  "slug": "ball-sort-soccer",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "evowars-official",
+  "status": 200,
+  "len": 3530,
+  "fails": []
+ },
+ {
+  "slug": "swords-and-souls",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fnf",
+  "status": 200,
+  "len": 8750,
+  "fails": []
+ },
+ {
+  "slug": "elasticman",
+  "status": 200,
+  "len": 1447,
+  "fails": []
+ },
+ {
+  "slug": "unfair-mario",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "defend-the-tank",
+  "status": 200,
+  "len": 1062,
+  "fails": []
+ },
+ {
+  "slug": "wheely-8",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "diablo",
+  "status": 200,
+  "len": 2166,
+  "fails": []
+ },
+ {
+  "slug": "heretic",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "pandemic2",
+  "status": 200,
+  "len": 922,
+  "fails": []
+ },
+ {
+  "slug": "tron",
+  "status": 200,
+  "len": 303057,
+  "fails": []
+ },
+ {
+  "slug": "jelly-truck",
+  "status": 200,
+  "len": 8939,
+  "fails": []
+ },
+ {
+  "slug": "klondike-solitaire",
+  "status": 200,
+  "len": 8951,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "spacewaves",
+  "status": 200,
+  "len": 1400,
+  "fails": []
+ },
+ {
+  "slug": "baldi",
+  "status": 200,
+  "len": 4729,
+  "fails": []
+ },
+ {
+  "slug": "papery-planes",
+  "status": 200,
+  "len": 917,
+  "fails": []
+ },
+ {
+  "slug": "bob-the-robber-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fishing-frenzy",
+  "status": 200,
+  "len": 8945,
+  "fails": []
+ },
+ {
+  "slug": "tomb-of-the-mask",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "ultrakillweb",
+  "status": 200,
+  "len": 1795,
+  "fails": []
+ },
+ {
+  "slug": "ninja-cat-exploit",
+  "status": 200,
+  "len": 8953,
+  "fails": []
+ },
+ {
+  "slug": "bad-ice-cream-3",
+  "status": 200,
+  "len": 8685,
+  "fails": []
+ },
+ {
+  "slug": "crossyroads",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "faster-than-light-demo",
+  "status": 200,
+  "len": 22298,
+  "fails": []
+ },
+ {
+  "slug": "worldbox",
+  "status": 200,
+  "len": 104214,
+  "fails": []
+ },
+ {
+  "slug": "theheist",
+  "status": 200,
+  "len": 917,
+  "fails": []
+ },
+ {
+  "slug": "servers",
+  "status": 200,
+  "len": 2262,
+  "fails": []
+ },
+ {
+  "slug": "redneck-rampage-route-66",
+  "status": 200,
+  "len": 10152,
+  "fails": []
+ },
+ {
+  "slug": "flow",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "saihate-station",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "traffic-control",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "yomih-hustle",
+  "status": 200,
+  "len": 6929,
+  "fails": []
+ },
+ {
+  "slug": "rogue-soul",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "classof09",
+  "status": 200,
+  "len": 7074,
+  "fails": []
+ },
+ {
+  "slug": "vex6",
+  "status": 200,
+  "len": 1838,
+  "fails": []
+ },
+ {
+  "slug": "cell-machine",
+  "status": 200,
+  "len": 903,
+  "fails": []
+ },
+ {
+  "slug": "lordz-official",
+  "status": 200,
+  "len": 6720,
+  "fails": []
+ },
+ {
+  "slug": "miside",
+  "status": 200,
+  "len": 1216,
+  "fails": []
+ },
+ {
+  "slug": "brubber",
+  "status": 200,
+  "len": 879,
+  "fails": []
+ },
+ {
+  "slug": "bitlife",
+  "status": 200,
+  "len": 6468,
+  "fails": []
+ },
+ {
+  "slug": "skribbl-official",
+  "status": 200,
+  "len": 21682,
+  "fails": []
+ },
+ {
+  "slug": "fireboy-and-watergirl-5",
+  "status": 200,
+  "len": 8978,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-bros-remastered",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "minecraftish-mmo",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "wheely-2",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "vex4",
+  "status": 200,
+  "len": 1141,
+  "fails": []
+ },
+ {
+  "slug": "doom-i-ii",
+  "status": 200,
+  "len": 22379,
+  "fails": []
+ },
+ {
+  "slug": "hop-pop-it",
+  "status": 200,
+  "len": 8932,
+  "fails": []
+ },
+ {
+  "slug": "totally-accurate-battle-simulator-tabs",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "mope-official",
+  "status": 200,
+  "len": 2240,
+  "fails": []
+ },
+ {
+  "slug": "baseballbros",
+  "status": 200,
+  "len": 38297,
+  "fails": []
+ },
+ {
+  "slug": "blumgi-rocket",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "checkers-legend",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-4",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "fruit-ninja",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "fireboy-and-watergirl-3",
+  "status": 200,
+  "len": 8978,
+  "fails": []
+ },
+ {
+  "slug": "kirby-soft-wet",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "miniputt",
+  "status": 200,
+  "len": 933,
+  "fails": []
+ },
+ {
+  "slug": "wheely-4",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "lightbot",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "run-3",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "torus-trooper",
+  "status": 200,
+  "len": 33546,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-2",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "papas-wingeria",
+  "status": 200,
+  "len": 8684,
+  "fails": []
+ },
+ {
+  "slug": "bendy-and-the-ink-machine-all-chapters",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "the-tale-of-the-adhd-dinosaur",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "mini-metro-london",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "brutal-official",
+  "status": 200,
+  "len": 13635,
+  "fails": []
+ },
+ {
+  "slug": "touhou-mother",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "fleeing-the-complex",
+  "status": 200,
+  "len": 8698,
+  "fails": []
+ },
+ {
+  "slug": "biker-street",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "fnaf-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "happy-fishing",
+  "status": 200,
+  "len": 8942,
+  "fails": []
+ },
+ {
+  "slug": "infiltrating-the-airship",
+  "status": 200,
+  "len": 8713,
+  "fails": []
+ },
+ {
+  "slug": "fancy-snowboarding",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "raldi-s-crackhouse",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "dire",
+  "status": 200,
+  "len": 7380,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-63",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "shopping-cart-hero",
+  "status": 200,
+  "len": 150276,
+  "fails": []
+ },
+ {
+  "slug": "scampton-the-great",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "nubby-s-number-factory",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "notmyneighbour",
+  "status": 200,
+  "len": 1191,
+  "fails": []
+ },
+ {
+  "slug": "tabs-webport",
+  "status": 200,
+  "len": 3816,
+  "fails": []
+ },
+ {
+  "slug": "jacksmith",
+  "status": 200,
+  "len": 27660,
+  "fails": []
+ },
+ {
+  "slug": "battleforgondor",
+  "status": 200,
+  "len": 949,
+  "fails": []
+ },
+ {
+  "slug": "connect-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bloons-td-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "spaceflight-simulator",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "football-brawl",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "clover-pit",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "papa-louie-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "football-legends",
+  "status": 200,
+  "len": 8951,
+  "fails": []
+ },
+ {
+  "slug": "pandemic-2",
+  "status": 200,
+  "len": 4378927,
+  "fails": []
+ },
+ {
+  "slug": "stickwar",
+  "status": 200,
+  "len": 918,
+  "fails": []
+ },
+ {
+  "slug": "swords-and-sandals-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "the-fancy-pants-adventures-world-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bubble-pop-adventures",
+  "status": 200,
+  "len": 8965,
+  "fails": []
+ },
+ {
+  "slug": "motox3m-winter",
+  "status": 200,
+  "len": 727,
+  "fails": []
+ },
+ {
+  "slug": "moto-x3m-6-spooky-land",
+  "status": 200,
+  "len": 8974,
+  "fails": []
+ },
+ {
+  "slug": "puzzle-bobble",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "hanger",
+  "status": 200,
+  "len": 8922,
+  "fails": []
+ },
+ {
+  "slug": "redball-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "super-smash-flash",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "idle-breakout",
+  "status": 200,
+  "len": 8942,
+  "fails": []
+ },
+ {
+  "slug": "dinosaurs-merge-master",
+  "status": 200,
+  "len": 8968,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-world",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "gladihoppers",
+  "status": 200,
+  "len": 919,
+  "fails": []
+ },
+ {
+  "slug": "milk-inside-a-bag-of-milk-inside-a-bag-of-milk",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "papas-scooperia",
+  "status": 200,
+  "len": 8687,
+  "fails": []
+ },
+ {
+  "slug": "the-world-s-hardest-game",
+  "status": 200,
+  "len": 744124,
+  "fails": []
+ },
+ {
+  "slug": "cloverpit",
+  "status": 200,
+  "len": 5194,
+  "fails": []
+ },
+ {
+  "slug": "townscaper",
+  "status": 200,
+  "len": 3073,
+  "fails": []
+ },
+ {
+  "slug": "antimatter",
+  "status": 200,
+  "len": 2514,
+  "fails": []
+ },
+ {
+  "slug": "desktop-tower-defense",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "diep-official",
+  "status": 200,
+  "len": 17180,
+  "fails": []
+ },
+ {
+  "slug": "the-impossible-quiz",
+  "status": 200,
+  "len": 8698,
+  "fails": []
+ },
+ {
+  "slug": "fnaf3",
+  "status": 200,
+  "len": 11363,
+  "fails": []
+ },
+ {
+  "slug": "fishing-and-lines",
+  "status": 200,
+  "len": 8953,
+  "fails": []
+ },
+ {
+  "slug": "particle-clicker",
+  "status": 200,
+  "len": 17830,
+  "fails": []
+ },
+ {
+  "slug": "meat-boy",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "hamu",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "thebattle",
+  "status": 200,
+  "len": 915,
+  "fails": []
+ },
+ {
+  "slug": "burrito-bison",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "basketball-line",
+  "status": 200,
+  "len": 8953,
+  "fails": []
+ },
+ {
+  "slug": "tv-static",
+  "status": 200,
+  "len": 3184,
+  "fails": []
+ },
+ {
+  "slug": "bloonstd2",
+  "status": 200,
+  "len": 917,
+  "fails": []
+ },
+ {
+  "slug": "redball-4-vol1",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "interactivebuddy",
+  "status": 200,
+  "len": 950,
+  "fails": []
+ },
+ {
+  "slug": "save-the-doge",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "portal",
+  "status": 200,
+  "len": 7104190,
+  "fails": []
+ },
+ {
+  "slug": "classof09tfs",
+  "status": 200,
+  "len": 6093,
+  "fails": []
+ },
+ {
+  "slug": "metalslug",
+  "status": 200,
+  "len": 7558,
+  "fails": []
+ },
+ {
+  "slug": "blumgiball",
+  "status": 200,
+  "len": 1514,
+  "fails": []
+ },
+ {
+  "slug": "hba",
+  "status": 200,
+  "len": 939,
+  "fails": []
+ },
+ {
+  "slug": "adventurecapitalist",
+  "status": 200,
+  "len": 5365,
+  "fails": []
+ },
+ {
+  "slug": "papas-cheeseria",
+  "status": 200,
+  "len": 8687,
+  "fails": []
+ },
+ {
+  "slug": "crazycattle",
+  "status": 200,
+  "len": 5404,
+  "fails": []
+ },
+ {
+  "slug": "bus-parking-3d",
+  "status": 200,
+  "len": 8938,
+  "fails": []
+ },
+ {
+  "slug": "sm-kart-zx",
+  "status": 200,
+  "len": 17783,
+  "fails": []
+ },
+ {
+  "slug": "motox3m-spooky",
+  "status": 200,
+  "len": 1062,
+  "fails": []
+ },
+ {
+  "slug": "gravitee-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "freezeria",
+  "status": 200,
+  "len": 5774429,
+  "fails": []
+ },
+ {
+  "slug": "hexgl",
+  "status": 200,
+  "len": 4169,
+  "fails": []
+ },
+ {
+  "slug": "lethal-ape",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "boxel-rebound",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bloons",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "defly-official",
+  "status": 200,
+  "len": 215882,
+  "fails": []
+ },
+ {
+  "slug": "rolly-vortex",
+  "status": 200,
+  "len": 3536,
+  "fails": []
+ },
+ {
+  "slug": "smokingbarrels",
+  "status": 200,
+  "len": 942,
+  "fails": []
+ },
+ {
+  "slug": "rusher-crusher",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "bonk-official",
+  "status": 200,
+  "len": 11581,
+  "fails": []
+ },
+ {
+  "slug": "vex-4",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "midnight-shift",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-ultimate-custom-night",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "crazy-cars",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "uno-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "stick-rpg",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "prince-of-persia-special-edition",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fused-240",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "getting-over-it-with-bennett-foddy",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "cut-the-rope",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "pokemonem",
+  "status": 200,
+  "len": 1239,
+  "fails": []
+ },
+ {
+  "slug": "vex-6",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "basketball-stars",
+  "status": 200,
+  "len": 8951,
+  "fails": []
+ },
+ {
+  "slug": "appel",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "creativekillchamber",
+  "status": 200,
+  "len": 963,
+  "fails": []
+ },
+ {
+  "slug": "soldier-legend",
+  "status": 200,
+  "len": 1843,
+  "fails": []
+ },
+ {
+  "slug": "canterlot-siege-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "badguards",
+  "status": 200,
+  "len": 7381,
+  "fails": []
+ },
+ {
+  "slug": "chrome-dino",
+  "status": 200,
+  "len": 31348,
+  "fails": []
+ },
+ {
+  "slug": "fred",
+  "status": 200,
+  "len": 2489,
+  "fails": []
+ },
+ {
+  "slug": "monster-truck-destroyer",
+  "status": 200,
+  "len": 8710,
+  "fails": []
+ },
+ {
+  "slug": "celeste-classic",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bloons-player-pack-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "mario-kart-flash",
+  "status": 200,
+  "len": 3429190,
+  "fails": []
+ },
+ {
+  "slug": "gun-mayhem",
+  "status": 200,
+  "len": 8672,
+  "fails": []
+ },
+ {
+  "slug": "vex-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "dogeminer",
+  "status": 200,
+  "len": 47521,
+  "fails": []
+ },
+ {
+  "slug": "bloxors",
+  "status": 200,
+  "len": 1730,
+  "fails": []
+ },
+ {
+  "slug": "milk-outside-a-bag-of-milk-outside-a-bag-of-milk",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "pizza-tower-scoutdigo",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "supersmashflash2",
+  "status": 200,
+  "len": 2051839,
+  "fails": []
+ },
+ {
+  "slug": "bad-piggies",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "3-pandas-in-japan",
+  "status": 200,
+  "len": 8957,
+  "fails": []
+ },
+ {
+  "slug": "big-tower-tiny-square",
+  "status": 200,
+  "len": 8964,
+  "fails": []
+ },
+ {
+  "slug": "dummy-never-fails",
+  "status": 200,
+  "len": 8692,
+  "fails": []
+ },
+ {
+  "slug": "halflife",
+  "status": 200,
+  "len": 3159,
+  "fails": []
+ },
+ {
+  "slug": "ddlc",
+  "status": 200,
+  "len": 1197,
+  "fails": []
+ },
+ {
+  "slug": "pt-html-launcher",
+  "status": 200,
+  "len": 7581,
+  "fails": []
+ },
+ {
+  "slug": "canterlot-siege-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "starblast-official",
+  "status": 200,
+  "len": 1327285,
+  "fails": []
+ },
+ {
+  "slug": "doom-marines-best-friend",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "pong",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "crazy-cattle-3d",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "santa-run-extrahard-version",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "quake-tg",
+  "status": 200,
+  "len": 31356,
+  "fails": []
+ },
+ {
+  "slug": "vex-8",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "gun-mayhem-redux",
+  "status": 200,
+  "len": 8681,
+  "fails": []
+ },
+ {
+  "slug": "robot-unicorn-attack",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "ball-sort-halloween",
+  "status": 200,
+  "len": 8959,
+  "fails": []
+ },
+ {
+  "slug": "scrapmetal",
+  "status": 200,
+  "len": 994,
+  "fails": []
+ },
+ {
+  "slug": "jeffrey-epstein-basics-in-education-and-kidnapping",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "adgac",
+  "status": 200,
+  "len": 1176,
+  "fails": []
+ },
+ {
+  "slug": "chicken-merge",
+  "status": 200,
+  "len": 8942,
+  "fails": []
+ },
+ {
+  "slug": "stick-with-it",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "tennis-physics",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "this-is-the-only-level",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "axis-football-league",
+  "status": 200,
+  "len": 8701,
+  "fails": []
+ },
+ {
+  "slug": "drive-mad",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "heroes-of-might-and-magic-3-for-web",
+  "status": 200,
+  "len": 14339,
+  "fails": []
+ },
+ {
+  "slug": "storm-the-house",
+  "status": 200,
+  "len": 143373,
+  "fails": []
+ },
+ {
+  "slug": "castle-hero",
+  "status": 200,
+  "len": 13088322,
+  "fails": []
+ },
+ {
+  "slug": "red-square-game",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "awesome-tanks",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fireboy3",
+  "status": 200,
+  "len": 3864065,
+  "fails": []
+ },
+ {
+  "slug": "turn-turn",
+  "status": 200,
+  "len": 8930,
+  "fails": []
+ },
+ {
+  "slug": "buster-jam",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "thisistheonlylevel",
+  "status": 200,
+  "len": 961,
+  "fails": []
+ },
+ {
+  "slug": "bloons-tower-defense-3",
+  "status": 200,
+  "len": 8706,
+  "fails": []
+ },
+ {
+  "slug": "timeshooter3",
+  "status": 200,
+  "len": 3766,
+  "fails": []
+ },
+ {
+  "slug": "game-inside",
+  "status": 200,
+  "len": 2561,
+  "fails": []
+ },
+ {
+  "slug": "pokemonplat",
+  "status": 200,
+  "len": 46825723,
+  "fails": []
+ },
+ {
+  "slug": "block-the-pig",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "polybranch",
+  "status": 200,
+  "len": 5310,
+  "fails": []
+ },
+ {
+  "slug": "cube-stack-3d",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "kittencannon",
+  "status": 200,
+  "len": 934,
+  "fails": []
+ },
+ {
+  "slug": "slendytubbies-2",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "hoverracer",
+  "status": 200,
+  "len": 1141,
+  "fails": []
+ },
+ {
+  "slug": "la-madriguera",
+  "status": 200,
+  "len": 4564,
+  "fails": []
+ },
+ {
+  "slug": "papa-cherry-saga",
+  "status": 200,
+  "len": 8955,
+  "fails": []
+ },
+ {
+  "slug": "ctr-holiday",
+  "status": 200,
+  "len": 9051,
+  "fails": []
+ },
+ {
+  "slug": "fears-to-fathom-home-alone",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "btd5",
+  "status": 200,
+  "len": 11083894,
+  "fails": []
+ },
+ {
+  "slug": "frontwars",
+  "status": 200,
+  "len": 892582,
+  "fails": []
+ },
+ {
+  "slug": "getaway",
+  "status": 200,
+  "len": 1696,
+  "fails": []
+ },
+ {
+  "slug": "impossiblequiz",
+  "status": 200,
+  "len": 944,
+  "fails": []
+ },
+ {
+  "slug": "mission-in-snowdriftland",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "endless-truck",
+  "status": 200,
+  "len": 8936,
+  "fails": []
+ },
+ {
+  "slug": "celeste",
+  "status": 200,
+  "len": 1243,
+  "fails": []
+ },
+ {
+  "slug": "tank-trouble-2",
+  "status": 200,
+  "len": 4559,
+  "fails": []
+ },
+ {
+  "slug": "stealingthediamond",
+  "status": 200,
+  "len": 957,
+  "fails": []
+ },
+ {
+  "slug": "the-impossible-quiz-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "the-worlds-hardest-game",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "georgeandtheprinter",
+  "status": 200,
+  "len": 975,
+  "fails": []
+ },
+ {
+  "slug": "flying-gorilla-3d",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "papas-freezeria",
+  "status": 200,
+  "len": 8687,
+  "fails": []
+ },
+ {
+  "slug": "totm",
+  "status": 200,
+  "len": 67053,
+  "fails": []
+ },
+ {
+  "slug": "adam-and-eve-7",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "christmas-massacre",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "slope-game",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "ballistic",
+  "status": 200,
+  "len": 8931,
+  "fails": []
+ },
+ {
+  "slug": "hexen-ii",
+  "status": 200,
+  "len": 35553,
+  "fails": []
+ },
+ {
+  "slug": "terraria",
+  "status": 200,
+  "len": 740,
+  "fails": []
+ },
+ {
+  "slug": "basketball-legends-2020",
+  "status": 200,
+  "len": 8971,
+  "fails": []
+ },
+ {
+  "slug": "line-rider",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bomb-it-6",
+  "status": 200,
+  "len": 8934,
+  "fails": []
+ },
+ {
+  "slug": "racing-monster-trucks",
+  "status": 200,
+  "len": 8970,
+  "fails": []
+ },
+ {
+  "slug": "taming-official",
+  "status": 200,
+  "len": 770630,
+  "fails": []
+ },
+ {
+  "slug": "nothing",
+  "status": 200,
+  "len": 4846,
+  "fails": []
+ },
+ {
+  "slug": "dont-look-back",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "g-switch-4",
+  "status": 200,
+  "len": 8937,
+  "fails": []
+ },
+ {
+  "slug": "fnae",
+  "status": 200,
+  "len": 11357,
+  "fails": []
+ },
+ {
+  "slug": "sandstone",
+  "status": 200,
+  "len": 2001673,
+  "fails": []
+ },
+ {
+  "slug": "iron-lung",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "redball",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "webretro-local",
+  "status": 200,
+  "len": 8013,
+  "fails": []
+ },
+ {
+  "slug": "doodle-jump",
+  "status": 200,
+  "len": 8936,
+  "fails": []
+ },
+ {
+  "slug": "tacticalassasin2",
+  "status": 200,
+  "len": 953,
+  "fails": []
+ },
+ {
+  "slug": "g-switch-2",
+  "status": 200,
+  "len": 8937,
+  "fails": []
+ },
+ {
+  "slug": "ctr-tr",
+  "status": 200,
+  "len": 10218,
+  "fails": []
+ },
+ {
+  "slug": "zombocalypse",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "stealing-the-diamond",
+  "status": 200,
+  "len": 8701,
+  "fails": []
+ },
+ {
+  "slug": "bouncy-woods",
+  "status": 200,
+  "len": 8939,
+  "fails": []
+ },
+ {
+  "slug": "fish-eat-fish",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "needy-streamer-overload",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "redneck-rampage",
+  "status": 200,
+  "len": 10146,
+  "fails": []
+ },
+ {
+  "slug": "dungeonsgambler",
+  "status": 200,
+  "len": 7032,
+  "fails": []
+ },
+ {
+  "slug": "ducklife3",
+  "status": 200,
+  "len": 6051049,
+  "fails": []
+ },
+ {
+  "slug": "learntofly1",
+  "status": 200,
+  "len": 892238,
+  "fails": []
+ },
+ {
+  "slug": "spider-solitaire",
+  "status": 200,
+  "len": 8954,
+  "fails": []
+ },
+ {
+  "slug": "snowbattle",
+  "status": 200,
+  "len": 3756,
+  "fails": []
+ },
+ {
+  "slug": "age-of-war",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "idle-mining-empire",
+  "status": 200,
+  "len": 8956,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-pizza-simulator",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "ducklife1",
+  "status": 200,
+  "len": 1282227,
+  "fails": []
+ },
+ {
+  "slug": "precision-client",
+  "status": 200,
+  "len": 5255,
+  "fails": []
+ },
+ {
+  "slug": "fnafsl",
+  "status": 200,
+  "len": 11377,
+  "fails": []
+ },
+ {
+  "slug": "stacktris",
+  "status": 200,
+  "len": 1582,
+  "fails": []
+ },
+ {
+  "slug": "papersplease",
+  "status": 200,
+  "len": 20313,
+  "fails": []
+ },
+ {
+  "slug": "learntofly",
+  "status": 200,
+  "len": 17467694,
+  "fails": []
+ },
+ {
+  "slug": "who-s-your-daddy",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "exo",
+  "status": 200,
+  "len": 74376,
+  "fails": []
+ },
+ {
+  "slug": "escaping-the-prison",
+  "status": 200,
+  "len": 8698,
+  "fails": []
+ },
+ {
+  "slug": "doublewires",
+  "status": 200,
+  "len": 946,
+  "fails": []
+ },
+ {
+  "slug": "basketstars",
+  "status": 200,
+  "len": 11357,
+  "fails": []
+ },
+ {
+  "slug": "tag",
+  "status": 200,
+  "len": 1558,
+  "fails": []
+ },
+ {
+  "slug": "js-dos",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "circlo",
+  "status": 200,
+  "len": 2335,
+  "fails": []
+ },
+ {
+  "slug": "soccerrandom",
+  "status": 200,
+  "len": 1343,
+  "fails": []
+ },
+ {
+  "slug": "your-only-move-is-hustle",
+  "status": 200,
+  "len": 6929,
+  "fails": []
+ },
+ {
+  "slug": "dune-ii-tg",
+  "status": 200,
+  "len": 1794,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-candy-s",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "connect3",
+  "status": 200,
+  "len": 436,
+  "fails": []
+ },
+ {
+  "slug": "doom",
+  "status": 200,
+  "len": 10231,
+  "fails": []
+ },
+ {
+  "slug": "apes-vs-helium",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "hackertype",
+  "status": 200,
+  "len": 907,
+  "fails": []
+ },
+ {
+  "slug": "icy-purple-head-2",
+  "status": 200,
+  "len": 8952,
+  "fails": []
+ },
+ {
+  "slug": "duck-life-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "galaga",
+  "status": 200,
+  "len": 8661,
+  "fails": []
+ },
+ {
+  "slug": "rogue-soul-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "earn-to-die-2012",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "crossy-road",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "la2",
+  "status": 200,
+  "len": 5914,
+  "fails": []
+ },
+ {
+  "slug": "papas-bakeria",
+  "status": 200,
+  "len": 8681,
+  "fails": []
+ },
+ {
+  "slug": "papas-hot-doggeria",
+  "status": 200,
+  "len": 8695,
+  "fails": []
+ },
+ {
+  "slug": "operius",
+  "status": 200,
+  "len": 2978,
+  "fails": []
+ },
+ {
+  "slug": "tower-crash-3d",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "championarcher",
+  "status": 200,
+  "len": 942,
+  "fails": []
+ },
+ {
+  "slug": "the-mast",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "swirl-1-button-game",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "earntodie",
+  "status": 200,
+  "len": 3900662,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddys-4",
+  "status": 200,
+  "len": 8963,
+  "fails": []
+ },
+ {
+  "slug": "deltarune",
+  "status": 200,
+  "len": 5591,
+  "fails": []
+ },
+ {
+  "slug": "hollow-knight",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "qwop",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "dude-simulator-2",
+  "status": 200,
+  "len": 1332,
+  "fails": []
+ },
+ {
+  "slug": "wings-official",
+  "status": 200,
+  "len": 20491,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-last-breath",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "parking-fury-3",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddys-2",
+  "status": 200,
+  "len": 8963,
+  "fails": []
+ },
+ {
+  "slug": "boxingrandom",
+  "status": 200,
+  "len": 1331,
+  "fails": []
+ },
+ {
+  "slug": "sinjid-shadow-of-the-warrior",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "lobotomy",
+  "status": 200,
+  "len": 1232,
+  "fails": []
+ },
+ {
+  "slug": "mr-bullet-3d",
+  "status": 200,
+  "len": 8943,
+  "fails": []
+ },
+ {
+  "slug": "zombs-royale",
+  "status": 200,
+  "len": 432,
+  "fails": []
+ },
+ {
+  "slug": "floodrunner-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "omori",
+  "status": 200,
+  "len": 7945,
+  "fails": []
+ },
+ {
+  "slug": "douchebag-life",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "starve-official",
+  "status": 200,
+  "len": 46898,
+  "fails": []
+ },
+ {
+  "slug": "oneshot",
+  "status": 200,
+  "len": 9394,
+  "fails": []
+ },
+ {
+  "slug": "burrito-bison-revenge",
+  "status": 200,
+  "len": 8704,
+  "fails": []
+ },
+ {
+  "slug": "stick-cricket",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "papas-cupcakeria",
+  "status": 200,
+  "len": 8689,
+  "fails": []
+ },
+ {
+  "slug": "pvz-goty-webport",
+  "status": 200,
+  "len": 5073,
+  "fails": []
+ },
+ {
+  "slug": "submersible",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "motox3m-pool",
+  "status": 200,
+  "len": 702,
+  "fails": []
+ },
+ {
+  "slug": "finalearth2",
+  "status": 200,
+  "len": 68837,
+  "fails": []
+ },
+ {
+  "slug": "sonic3air-webport",
+  "status": 200,
+  "len": 18980,
+  "fails": []
+ },
+ {
+  "slug": "n",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "wheelie-bike",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "ageofwar",
+  "status": 200,
+  "len": 3628478,
+  "fails": []
+ },
+ {
+  "slug": "tunnel-rush",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "adam-and-eve-52",
+  "status": 200,
+  "len": 8955,
+  "fails": []
+ },
+ {
+  "slug": "sonic-the-hedgehog",
+  "status": 200,
+  "len": 6853,
+  "fails": []
+ },
+ {
+  "slug": "eggy-car",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "power-hover",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "smashkarts-official",
+  "status": 200,
+  "len": 12945,
+  "fails": []
+ },
+ {
+  "slug": "moto-x3m-2",
+  "status": 200,
+  "len": 8936,
+  "fails": []
+ },
+ {
+  "slug": "floodrunner-4",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "e-scooter",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "surviv-official",
+  "status": 200,
+  "len": 64184,
+  "fails": []
+ },
+ {
+  "slug": "wipeout",
+  "status": 200,
+  "len": 11404,
+  "fails": []
+ },
+ {
+  "slug": "park-out",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-war",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "yongjin-brick-breaker",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "terminus",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "achievement-unlocked-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "breaklock",
+  "status": 200,
+  "len": 9998,
+  "fails": []
+ },
+ {
+  "slug": "mindwave",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "cactus-mccoy-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fruita-crush",
+  "status": 200,
+  "len": 8939,
+  "fails": []
+ },
+ {
+  "slug": "super-choppy-orc",
+  "status": 200,
+  "len": 3615,
+  "fails": []
+ },
+ {
+  "slug": "knotted",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "feedthevoid",
+  "status": 200,
+  "len": 6181,
+  "fails": []
+ },
+ {
+  "slug": "freecell-solitaire",
+  "status": 200,
+  "len": 8951,
+  "fails": []
+ },
+ {
+  "slug": "splix-official",
+  "status": 200,
+  "len": 15057,
+  "fails": []
+ },
+ {
+  "slug": "boxing-random",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "fire-truck",
+  "status": 200,
+  "len": 8936,
+  "fails": []
+ },
+ {
+  "slug": "sunky-s-schoolhouse",
+  "status": 200,
+  "len": 6743,
+  "fails": []
+ },
+ {
+  "slug": "pc-breakdown",
+  "status": 200,
+  "len": 653848,
+  "fails": []
+ },
+ {
+  "slug": "wood-block-puzzle",
+  "status": 200,
+  "len": 8953,
+  "fails": []
+ },
+ {
+  "slug": "heads-arena-soccer-all-stars",
+  "status": 200,
+  "len": 8989,
+  "fails": []
+ },
+ {
+  "slug": "sling-tomb",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "interactive-buddy",
+  "status": 200,
+  "len": 1224969,
+  "fails": []
+ },
+ {
+  "slug": "sonicexe",
+  "status": 200,
+  "len": 14225,
+  "fails": []
+ },
+ {
+  "slug": "fancy-pants-2",
+  "status": 200,
+  "len": 8720,
+  "fails": []
+ },
+ {
+  "slug": "swords-and-sandals-crusader",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "batim",
+  "status": 200,
+  "len": 5306,
+  "fails": []
+ },
+ {
+  "slug": "papa-louie-when-pizzas-attack",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "zuma",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "dice",
+  "status": 200,
+  "len": 3327,
+  "fails": []
+ },
+ {
+  "slug": "powermanga",
+  "status": 200,
+  "len": 4592,
+  "fails": []
+ },
+ {
+  "slug": "bankrobbery2",
+  "status": 200,
+  "len": 1229,
+  "fails": []
+ },
+ {
+  "slug": "neverball",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "pacman",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "gravitee",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "space-bar-clicker",
+  "status": 200,
+  "len": 8958,
+  "fails": []
+ },
+ {
+  "slug": "the-fancy-pants-adventures",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "evil-glitch",
+  "status": 200,
+  "len": 1317,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-8",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "stickman-fighter-epic-battles",
+  "status": 200,
+  "len": 8975,
+  "fails": []
+ },
+ {
+  "slug": "awesome-planes",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "army-of-ages",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "portal-the-flash-version",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bloons-td",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "you-are-bezos",
+  "status": 200,
+  "len": 994377,
+  "fails": []
+ },
+ {
+  "slug": "duck-life-treasure-hunt",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "santa-run-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "gobdun",
+  "status": 200,
+  "len": 1574,
+  "fails": []
+ },
+ {
+  "slug": "eggycar",
+  "status": 200,
+  "len": 4710,
+  "fails": []
+ },
+ {
+  "slug": "pokemon-emerald-2",
+  "status": 200,
+  "len": 8698,
+  "fails": []
+ },
+ {
+  "slug": "subway-surfers",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "head-soccer-2023",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "soundboard",
+  "status": 200,
+  "len": 66537,
+  "fails": []
+ },
+ {
+  "slug": "granny-2",
+  "status": 200,
+  "len": 4480,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-2",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "gunmayhem",
+  "status": 200,
+  "len": 2487,
+  "fails": []
+ },
+ {
+  "slug": "clicker-heroes",
+  "status": 200,
+  "len": 1598,
+  "fails": []
+ },
+ {
+  "slug": "redneck-rampage-rides-again",
+  "status": 200,
+  "len": 10136,
+  "fails": []
+ },
+ {
+  "slug": "there-s-a-butcher-around",
+  "status": 200,
+  "len": 2984,
+  "fails": []
+ },
+ {
+  "slug": "age-of-war-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "basket-random",
+  "status": 200,
+  "len": 8942,
+  "fails": []
+ },
+ {
+  "slug": "blackknight",
+  "status": 200,
+  "len": 931,
+  "fails": []
+ },
+ {
+  "slug": "fancy-pants",
+  "status": 200,
+  "len": 8719,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school-5",
+  "status": 200,
+  "len": 14539355,
+  "fails": []
+ },
+ {
+  "slug": "tiny-fishing",
+  "status": 200,
+  "len": 8939,
+  "fails": []
+ },
+ {
+  "slug": "gimme-the-airpod",
+  "status": 200,
+  "len": 689,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-6",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "untitled-goose-game",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "tank-trouble",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "burgeria",
+  "status": 200,
+  "len": 3814175,
+  "fails": []
+ },
+ {
+  "slug": "paper-official",
+  "status": 200,
+  "len": 231345,
+  "fails": []
+ },
+ {
+  "slug": "cruelty-squad",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob-4",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "mini-golf-online",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "balatro",
+  "status": 200,
+  "len": 6326,
+  "fails": []
+ },
+ {
+  "slug": "papas-pastaria",
+  "status": 200,
+  "len": 8684,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school-1",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "stick-merge",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddys",
+  "status": 200,
+  "len": 8957,
+  "fails": []
+ },
+ {
+  "slug": "krunker-official",
+  "status": 200,
+  "len": 43746,
+  "fails": []
+ },
+ {
+  "slug": "minecraft-case-simulator",
+  "status": 200,
+  "len": 8979,
+  "fails": []
+ },
+ {
+  "slug": "xrick",
+  "status": 200,
+  "len": 8244,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "moschess",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "tosstheturtle",
+  "status": 200,
+  "len": 939,
+  "fails": []
+ },
+ {
+  "slug": "motherload",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "ultrakill",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "learn-to-fly-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bloons-td-4-exp",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "super-monkey-ball",
+  "status": 200,
+  "len": 33507,
+  "fails": []
+ },
+ {
+  "slug": "vampire",
+  "status": 200,
+  "len": 4876,
+  "fails": []
+ },
+ {
+  "slug": "vex3",
+  "status": 200,
+  "len": 1187,
+  "fails": []
+ },
+ {
+  "slug": "supermario64",
+  "status": 200,
+  "len": 5923,
+  "fails": []
+ },
+ {
+  "slug": "antonblast",
+  "status": 200,
+  "len": 13059,
+  "fails": []
+ },
+ {
+  "slug": "papas-donuteria",
+  "status": 200,
+  "len": 8685,
+  "fails": []
+ },
+ {
+  "slug": "kirka-official",
+  "status": 200,
+  "len": 22837,
+  "fails": []
+ },
+ {
+  "slug": "nubbysnumberfactory",
+  "status": 200,
+  "len": 17456,
+  "fails": []
+ },
+ {
+  "slug": "taiko-no-tatsujin",
+  "status": 200,
+  "len": 2903,
+  "fails": []
+ },
+ {
+  "slug": "portalflash",
+  "status": 200,
+  "len": 915,
+  "fails": []
+ },
+ {
+  "slug": "quake-ii",
+  "status": 200,
+  "len": 42419,
+  "fails": []
+ },
+ {
+  "slug": "bowman",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fallout",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "football-masters",
+  "status": 200,
+  "len": 8956,
+  "fails": []
+ },
+ {
+  "slug": "adventure-drivers",
+  "status": 200,
+  "len": 8954,
+  "fails": []
+ },
+ {
+  "slug": "there-is-no-game",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "caseoh-s-basics-in-eating-and-fast-food",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "my-friend-pedro",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "craftmine",
+  "status": 200,
+  "len": 5611,
+  "fails": []
+ },
+ {
+  "slug": "alien-hominid",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "breaking-the-bank",
+  "status": 200,
+  "len": 8692,
+  "fails": []
+ },
+ {
+  "slug": "particleclicker",
+  "status": 200,
+  "len": 18105,
+  "fails": []
+ },
+ {
+  "slug": "fireboy-and-watergirl-6",
+  "status": 200,
+  "len": 8978,
+  "fails": []
+ },
+ {
+  "slug": "achievementunlocked",
+  "status": 200,
+  "len": 962,
+  "fails": []
+ },
+ {
+  "slug": "kour-official",
+  "status": 200,
+  "len": 65933,
+  "fails": []
+ },
+ {
+  "slug": "wheely-3",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "minimetro",
+  "status": 200,
+  "len": 3441,
+  "fails": []
+ },
+ {
+  "slug": "retro-bowl",
+  "status": 200,
+  "len": 8938,
+  "fails": []
+ },
+ {
+  "slug": "vex5",
+  "status": 200,
+  "len": 1200,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-bros-crossover",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "slendytubbies-2d",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "ns-shaft",
+  "status": 200,
+  "len": 7618,
+  "fails": []
+ },
+ {
+  "slug": "plagueinc",
+  "status": 200,
+  "len": 3616,
+  "fails": []
+ },
+ {
+  "slug": "battle-ships-general-quarters",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "quake-iii-arena",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "paperio2",
+  "status": 200,
+  "len": 2419,
+  "fails": []
+ },
+ {
+  "slug": "fireboy-and-watergirl-4",
+  "status": 200,
+  "len": 8978,
+  "fails": []
+ },
+ {
+  "slug": "wheely-5",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "tanuki-sunset",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "run-2",
+  "status": 200,
+  "len": 8657,
+  "fails": []
+ },
+ {
+  "slug": "fishing",
+  "status": 200,
+  "len": 73120,
+  "fails": []
+ },
+ {
+  "slug": "ultrapool",
+  "status": 200,
+  "len": 7220,
+  "fails": []
+ },
+ {
+  "slug": "plague-inc",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-3",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "fireboy",
+  "status": 200,
+  "len": 2198,
+  "fails": []
+ },
+ {
+  "slug": "circloo-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fireboy-and-watergirl-2",
+  "status": 200,
+  "len": 8978,
+  "fails": []
+ },
+ {
+  "slug": "flash-sonic",
+  "status": 200,
+  "len": 1506632,
+  "fails": []
+ },
+ {
+  "slug": "wheely-7",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "gtachina",
+  "status": 200,
+  "len": 0,
+  "fails": []
+ },
+ {
+  "slug": "helicopter-game",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "snail-bob",
+  "status": 200,
+  "len": 8930,
+  "fails": []
+ },
+ {
+  "slug": "fallout-2",
+  "status": 200,
+  "len": 904,
+  "fails": []
+ },
+ {
+  "slug": "guess-the-kitty",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "endlesswar3",
+  "status": 200,
+  "len": 923,
+  "fails": []
+ },
+ {
+  "slug": "flappy-bird",
+  "status": 200,
+  "len": 2649,
+  "fails": []
+ },
+ {
+  "slug": "yomihustle",
+  "status": 200,
+  "len": 6929,
+  "fails": []
+ },
+ {
+  "slug": "undertaleyellow",
+  "status": 200,
+  "len": 11336,
+  "fails": []
+ },
+ {
+  "slug": "matrixrampage",
+  "status": 200,
+  "len": 931,
+  "fails": []
+ },
+ {
+  "slug": "muddy-heights",
+  "status": 200,
+  "len": 4852,
+  "fails": []
+ },
+ {
+  "slug": "hextris",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "gunmayhem2",
+  "status": 200,
+  "len": 8882538,
+  "fails": []
+ },
+ {
+  "slug": "bloons-td-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "pandemic-1",
+  "status": 200,
+  "len": 1873328,
+  "fails": []
+ },
+ {
+  "slug": "hexempire",
+  "status": 200,
+  "len": 914,
+  "fails": []
+ },
+ {
+  "slug": "emulatrix",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "powerpuff-girls-zom-b-gone",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "dummy-never-fails-2",
+  "status": 200,
+  "len": 8697,
+  "fails": []
+ },
+ {
+  "slug": "meteor-60-seconds",
+  "status": 200,
+  "len": 1740,
+  "fails": []
+ },
+ {
+  "slug": "bloons-td-5",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "papa-louie-3",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "wolf3d",
+  "status": 200,
+  "len": 9425,
+  "fails": []
+ },
+ {
+  "slug": "toy-defense",
+  "status": 200,
+  "len": 8930,
+  "fails": []
+ },
+ {
+  "slug": "mr-bullet",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "egg-ascent",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "powerline-official",
+  "status": 200,
+  "len": 51038,
+  "fails": []
+ },
+ {
+  "slug": "magic-sushi",
+  "status": 200,
+  "len": 1781,
+  "fails": []
+ },
+ {
+  "slug": "leveldevil",
+  "status": 200,
+  "len": 1856,
+  "fails": []
+ },
+ {
+  "slug": "pvz2",
+  "status": 200,
+  "len": 26755,
+  "fails": []
+ },
+ {
+  "slug": "ihavenomouth",
+  "status": 200,
+  "len": 5747,
+  "fails": []
+ },
+ {
+  "slug": "statetris-europe",
+  "status": 200,
+  "len": 319140,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-64",
+  "status": 200,
+  "len": 8683,
+  "fails": []
+ },
+ {
+  "slug": "the-fancy-pants-adventures-world-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "minecraft-0-6-1",
+  "status": 200,
+  "len": 7014,
+  "fails": []
+ },
+ {
+  "slug": "fundamental-paper-novel",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "elephant-rave-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "superhot-prototype",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "btts",
+  "status": 200,
+  "len": 5292,
+  "fails": []
+ },
+ {
+  "slug": "supertux-classic",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "granny",
+  "status": 200,
+  "len": 1183,
+  "fails": []
+ },
+ {
+  "slug": "guestbook",
+  "status": 200,
+  "len": 1204,
+  "fails": []
+ },
+ {
+  "slug": "cactus-mccoy",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "ctr",
+  "status": 200,
+  "len": 8777,
+  "fails": []
+ },
+ {
+  "slug": "uvuvwevwevweonyetenvewveugwemubwemossas",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "art-of-war",
+  "status": 200,
+  "len": 1307007,
+  "fails": []
+ },
+ {
+  "slug": "shellshock-official",
+  "status": 200,
+  "len": 76151,
+  "fails": []
+ },
+ {
+  "slug": "hotdoggeria",
+  "status": 200,
+  "len": 8692568,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-sister-location",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "fnaf2",
+  "status": 200,
+  "len": 11375,
+  "fails": []
+ },
+ {
+  "slug": "missiles",
+  "status": 200,
+  "len": 24283,
+  "fails": []
+ },
+ {
+  "slug": "tri-peaks-solitaire",
+  "status": 200,
+  "len": 8953,
+  "fails": []
+ },
+ {
+  "slug": "block-blast",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "merge-melon",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "rabbit-samurai-2",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "n-gon",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fnaf4",
+  "status": 200,
+  "len": 11363,
+  "fails": []
+ },
+ {
+  "slug": "biolab-disaster",
+  "status": 200,
+  "len": 10901,
+  "fails": []
+ },
+ {
+  "slug": "proxified-ports",
+  "status": 200,
+  "len": 6512,
+  "fails": []
+ },
+ {
+  "slug": "mirrors-edge-2d",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "60-seconds-burger-run",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "a-bite-at-freddy-s",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "drivemad",
+  "status": 200,
+  "len": 2202,
+  "fails": []
+ },
+ {
+  "slug": "wheely-6",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "avalanche",
+  "status": 200,
+  "len": 921,
+  "fails": []
+ },
+ {
+  "slug": "papas-burgeria",
+  "status": 200,
+  "len": 8684,
+  "fails": []
+ },
+ {
+  "slug": "deal-or-no-deal",
+  "status": 200,
+  "len": 922,
+  "fails": []
+ },
+ {
+  "slug": "snow-rider-3d",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "little-alchemy-2",
+  "status": 200,
+  "len": 8955,
+  "fails": []
+ },
+ {
+  "slug": "monkey-mart",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "something",
+  "status": 200,
+  "len": 4860,
+  "fails": []
+ },
+ {
+  "slug": "polytrackw+d",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-wonder",
+  "status": 200,
+  "len": 8961,
+  "fails": []
+ },
+ {
+  "slug": "flappy-2048",
+  "status": 200,
+  "len": 3106,
+  "fails": []
+ },
+ {
+  "slug": "the-binding-of-isaac-demo",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "shogunshowdown",
+  "status": 200,
+  "len": 3734,
+  "fails": []
+ },
+ {
+  "slug": "iron-snout",
+  "status": 200,
+  "len": 8938,
+  "fails": []
+ },
+ {
+  "slug": "marbles-sorting",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "dead-again",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "stack",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "jumbo-mario",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "bob-the-robber",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "inscryption",
+  "status": 200,
+  "len": 1286,
+  "fails": []
+ },
+ {
+  "slug": "endoparasitic-2",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "getaway-shootout",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "papas-pancakeria",
+  "status": 200,
+  "len": 8690,
+  "fails": []
+ },
+ {
+  "slug": "bloxorz",
+  "status": 200,
+  "len": 2446,
+  "fails": []
+ },
+ {
+  "slug": "drift-boss",
+  "status": 200,
+  "len": 8933,
+  "fails": []
+ },
+ {
+  "slug": "pizzatower",
+  "status": 200,
+  "len": 1219,
+  "fails": []
+ },
+ {
+  "slug": "raft-wars",
+  "status": 200,
+  "len": 8935,
+  "fails": []
+ },
+ {
+  "slug": "idle-shark",
+  "status": 200,
+  "len": 5259,
+  "fails": []
+ },
+ {
+  "slug": "basket-champs",
+  "status": 200,
+  "len": 8947,
+  "fails": []
+ },
+ {
+  "slug": "html5-minesweeper",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "pokemonfr",
+  "status": 200,
+  "len": 4019,
+  "fails": []
+ },
+ {
+  "slug": "run",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "vex-5",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "cannon-basketball-4",
+  "status": 200,
+  "len": 786,
+  "fails": []
+ },
+ {
+  "slug": "stickman",
+  "status": 200,
+  "len": 195502,
+  "fails": []
+ },
+ {
+  "slug": "basketbros",
+  "status": 200,
+  "len": 20276,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-candy-s-2",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "quake-3-arena-demo",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "vex-7",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "burrito-bison-launcha-libre",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "nam-napalm",
+  "status": 200,
+  "len": 10069,
+  "fails": []
+ },
+ {
+  "slug": "geometry-jump",
+  "status": 200,
+  "len": 8942,
+  "fails": []
+ },
+ {
+  "slug": "fear-hunger",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "friday-night-funkin",
+  "status": 200,
+  "len": 8960,
+  "fails": []
+ },
+ {
+  "slug": "car-rush",
+  "status": 200,
+  "len": 8927,
+  "fails": []
+ },
+ {
+  "slug": "adarkroom",
+  "status": 200,
+  "len": 5211,
+  "fails": []
+ },
+ {
+  "slug": "idle-restaurants",
+  "status": 200,
+  "len": 8951,
+  "fails": []
+ },
+ {
+  "slug": "asteroids",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "slender-the-8-pages",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "bloons-player-pack-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "duke-nukem-ii",
+  "status": 200,
+  "len": 5610,
+  "fails": []
+ },
+ {
+  "slug": "sandtris",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "vex-3",
+  "status": 200,
+  "len": 8918,
+  "fails": []
+ },
+ {
+  "slug": "riddle-school-transfer",
+  "status": 200,
+  "len": 15645136,
+  "fails": []
+ },
+ {
+  "slug": "ruffle-swf-player",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "fnafucn",
+  "status": 200,
+  "len": 11386,
+  "fails": []
+ },
+ {
+  "slug": "swerve",
+  "status": 200,
+  "len": 1165,
+  "fails": []
+ },
+ {
+  "slug": "i-spoke-to-god",
+  "status": 200,
+  "len": 6667,
+  "fails": []
+ },
+ {
+  "slug": "grindcraft",
+  "status": 200,
+  "len": 4549,
+  "fails": []
+ },
+ {
+  "slug": "papas-sushiria",
+  "status": 200,
+  "len": 8684,
+  "fails": []
+ },
+ {
+  "slug": "snailbob",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "among-us-online",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "smashkarts",
+  "status": 200,
+  "len": 16945,
+  "fails": []
+ },
+ {
+  "slug": "backrooms",
+  "status": 200,
+  "len": 934,
+  "fails": []
+ },
+ {
+  "slug": "talking-hippo",
+  "status": 200,
+  "len": 7057,
+  "fails": []
+ },
+ {
+  "slug": "tube-jumpers",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "wasm-rip",
+  "status": 200,
+  "len": 6879,
+  "fails": []
+ },
+ {
+  "slug": "hollowknight",
+  "status": 200,
+  "len": 5122,
+  "fails": []
+ },
+ {
+  "slug": "mariokartds",
+  "status": 200,
+  "len": 0,
+  "fails": []
+ },
+ {
+  "slug": "draw-the-hill",
+  "status": 200,
+  "len": 2218,
+  "fails": []
+ },
+ {
+  "slug": "pudding-monsters",
+  "status": 200,
+  "len": 8951,
+  "fails": []
+ },
+ {
+  "slug": "need-for-speed-underground-quarter-mile-challenge",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "factoryballs",
+  "status": 200,
+  "len": 3558,
+  "fails": []
+ },
+ {
+  "slug": "time-shooter-3-swat",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "in-stars-and-time",
+  "status": 200,
+  "len": 8113,
+  "fails": []
+ },
+ {
+  "slug": "bottle-flip",
+  "status": 200,
+  "len": 8936,
+  "fails": []
+ },
+ {
+  "slug": "s-p-l-i-t",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "osu-full-remake",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "cut-the-rope-time-travel",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "breakout",
+  "status": 200,
+  "len": 3291,
+  "fails": []
+ },
+ {
+  "slug": "corbin-webport",
+  "status": 200,
+  "len": 5170,
+  "fails": []
+ },
+ {
+  "slug": "commander-keen",
+  "status": 200,
+  "len": 13604,
+  "fails": []
+ },
+ {
+  "slug": "ball-sort-puzzle",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "johnny-upgrade",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "abobos-big-adventure",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "appel-multiplayer",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "cheese-rolling",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "bigredbutton",
+  "status": 200,
+  "len": 937,
+  "fails": []
+ },
+ {
+  "slug": "fireboy2",
+  "status": 200,
+  "len": 3961597,
+  "fails": []
+ },
+ {
+  "slug": "timeshooter2",
+  "status": 200,
+  "len": 3751,
+  "fails": []
+ },
+ {
+  "slug": "gabriel-s-awesome-schoolhouse-gash",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "bat-to-bed-demo",
+  "status": 200,
+  "len": 5495,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-freddy-s-world-refreshed",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "taking-shape",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "papas-taco-mia",
+  "status": 200,
+  "len": 8683,
+  "fails": []
+ },
+ {
+  "slug": "btd4",
+  "status": 200,
+  "len": 2533,
+  "fails": []
+ },
+ {
+  "slug": "openttd",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "9007199254740992",
+  "status": 200,
+  "len": 6185,
+  "fails": []
+ },
+ {
+  "slug": "slendytubbies-1",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "cubefield",
+  "status": 200,
+  "len": 8931,
+  "fails": []
+ },
+ {
+  "slug": "sideeffects",
+  "status": 200,
+  "len": 6636,
+  "fails": []
+ },
+ {
+  "slug": "dumb-ways-to-die-v1-6",
+  "status": 200,
+  "len": 695,
+  "fails": []
+ },
+ {
+  "slug": "swords-and-sandals",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "defend-your-castle",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bloons-tower-defense-4",
+  "status": 200,
+  "len": 8706,
+  "fails": []
+ },
+ {
+  "slug": "push-your-luck",
+  "status": 200,
+  "len": 1381,
+  "fails": []
+ },
+ {
+  "slug": "crazy-frog",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "football-strike",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "rocketleague",
+  "status": 200,
+  "len": 997,
+  "fails": []
+ },
+ {
+  "slug": "pentashift",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "adam-and-eve-6",
+  "status": 200,
+  "len": 8948,
+  "fails": []
+ },
+ {
+  "slug": "the-impossible-quiz-book",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "penalty-kick-online",
+  "status": 200,
+  "len": 8959,
+  "fails": []
+ },
+ {
+  "slug": "sushiria",
+  "status": 200,
+  "len": 15583308,
+  "fails": []
+ },
+ {
+  "slug": "pokemon-firered-version",
+  "status": 200,
+  "len": 8710,
+  "fails": []
+ },
+ {
+  "slug": "flashtetris",
+  "status": 200,
+  "len": 930,
+  "fails": []
+ },
+ {
+  "slug": "gunblood",
+  "status": 200,
+  "len": 8667,
+  "fails": []
+ },
+ {
+  "slug": "bubble-shooter",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "tap-tap-shots",
+  "status": 200,
+  "len": 8941,
+  "fails": []
+ },
+ {
+  "slug": "super-mario-flash",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "blumgi-slime",
+  "status": 200,
+  "len": 8944,
+  "fails": []
+ },
+ {
+  "slug": "celeste-classic-2-lanis-treck",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "duck-life",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "bad-parenting-1",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "pokemon-emerald-version",
+  "status": 200,
+  "len": 8710,
+  "fails": []
+ },
+ {
+  "slug": "wwii-gi",
+  "status": 200,
+  "len": 10084,
+  "fails": []
+ },
+ {
+  "slug": "undertale",
+  "status": 200,
+  "len": 12878,
+  "fails": []
+ },
+ {
+  "slug": "space-rangers-quests",
+  "status": 200,
+  "len": 4869,
+  "fails": []
+ },
+ {
+  "slug": "bomb-it-7",
+  "status": 200,
+  "len": 8934,
+  "fails": []
+ },
+ {
+  "slug": "fear-hunger-2-termina",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "silksong",
+  "status": 200,
+  "len": 6923,
+  "fails": []
+ },
+ {
+  "slug": "five-nights-at-frickbear-s-3",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "60-seconds-santa-run",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "slayone-official",
+  "status": 200,
+  "len": 52455,
+  "fails": []
+ },
+ {
+  "slug": "rocks-n-diamonds",
+  "status": 200,
+  "len": 17598,
+  "fails": []
+ },
+ {
+  "slug": "g-switch-3",
+  "status": 200,
+  "len": 8937,
+  "fails": []
+ },
+ {
+  "slug": "fnaf",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "ovo",
+  "status": 200,
+  "len": 8916,
+  "fails": []
+ },
+ {
+  "slug": "1v1space",
+  "status": 200,
+  "len": 571,
+  "fails": []
+ },
+ {
+  "slug": "parking-fury",
+  "status": 200,
+  "len": 8939,
+  "fails": []
+ },
+ {
+  "slug": "learntofly2",
+  "status": 200,
+  "len": 5368783,
+  "fails": []
+ },
+ {
+  "slug": "traffic-tom",
+  "status": 200,
+  "len": 8930,
+  "fails": []
+ },
+ {
+  "slug": "5b",
+  "status": 200,
+  "len": 1294,
+  "fails": []
+ },
+ {
+  "slug": "brotato",
+  "status": 200,
+  "len": 6841,
+  "fails": []
+ },
+ {
+  "slug": "soccer-random",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "the-final-earth-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "ducklife2",
+  "status": 200,
+  "len": 1901133,
+  "fails": []
+ },
+ {
+  "slug": "geodash",
+  "status": 200,
+  "len": 3121,
+  "fails": []
+ },
+ {
+  "slug": "peaks-of-yore",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "gta-vice-city",
+  "status": 200,
+  "len": 94127,
+  "fails": []
+ },
+ {
+  "slug": "learn-to-fly",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "sort-the-court",
+  "status": 200,
+  "len": 1582,
+  "fails": []
+ },
+ {
+  "slug": "happywheels",
+  "status": 200,
+  "len": 3882,
+  "fails": []
+ },
+ {
+  "slug": "recoil",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "1010-color-match",
+  "status": 200,
+  "len": 8950,
+  "fails": []
+ },
+ {
+  "slug": "gun-mayhem-2",
+  "status": 200,
+  "len": 8677,
+  "fails": []
+ },
+ {
+  "slug": "pokemonsoulsilver",
+  "status": 200,
+  "len": 56198787,
+  "fails": []
+ },
+ {
+  "slug": "shapez",
+  "status": 200,
+  "len": 7242,
+  "fails": []
+ },
+ {
+  "slug": "apple-shooter",
+  "status": 200,
+  "len": 8942,
+  "fails": []
+ },
+ {
+  "slug": "rooftop-snipers",
+  "status": 200,
+  "len": 2315,
+  "fails": []
+ },
+ {
+  "slug": "ducklife4",
+  "status": 200,
+  "len": 8872475,
+  "fails": []
+ },
+ {
+  "slug": "osu",
+  "status": 200,
+  "len": 5343,
+  "fails": []
+ },
+ {
+  "slug": "push-the-square",
+  "status": 200,
+  "len": 2535,
+  "fails": []
+ },
+ {
+  "slug": "duck-life-1",
+  "status": 200,
+  "len": 1282209,
+  "fails": []
+ },
+ {
+  "slug": "fih",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "vex",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "look-outside",
+  "status": 200,
+  "len": 73433,
+  "fails": []
+ },
+ {
+  "slug": "tunnel",
+  "status": 200,
+  "len": 1108,
+  "fails": []
+ },
+ {
+  "slug": "ragdollarcher",
+  "status": 200,
+  "len": 1396,
+  "fails": []
+ },
+ {
+  "slug": "icy-purple-head-3",
+  "status": 200,
+  "len": 8952,
+  "fails": []
+ },
+ {
+  "slug": "the-worlds-hardest-game-2",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ },
+ {
+  "slug": "moto-x3m",
+  "status": 200,
+  "len": 8930,
+  "fails": []
+ },
+ {
+  "slug": "a-dark-room",
+  "status": 200,
+  "len": 7161,
+  "fails": []
+ }
+]

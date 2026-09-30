@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "cuphead",
+  "reason": "web-ports 103 parts / 2.1GB exceed jsdelivr 50MB cap (403s); truffled.lol paths 404; CupheadWeb jsdelivr 403; itch framing blocked. Retry when a servable host appears.",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "simutrans",
+  "reason": "source-only repo, no playable web entry in tree",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "chromium-b-s-u",
+  "reason": "source-only repo, only doc pages in tree",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "sdl-ball",
+  "reason": "source-only repo, only level-editor entry",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "nikwi",
+  "reason": "source-only repo, only manual entry",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "numpty-physics",
+  "reason": "source-only repo, only help-text entry",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "srb2-kart",
+  "reason": "246-byte stub entry, game needs building",
+  "date": "2026-09-30"
+ },
+ {
+  "slug": "pokemonblk",
+  "reason": "netlify ROM host now 404 (ephemeral deploy URL)",
+  "date": "2026-09-30"
+ }
+]

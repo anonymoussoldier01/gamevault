@@ -1,0 +1,422 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== GameVault — futuristic clarity (ice-cyan on near-black) ===== */
+:root {
+  color-scheme: dark;
+  --bg: #070a0f;
+  --surface: #0d1117;
+  --surface2: #131a24;
+  --ink: #e8eaf0;
+  --muted: #9aa3b2;
+  --faint: #565f89;
+  --line: rgba(176, 199, 217, 0.14);
+  --accent: #22d3ee;
+  --accent-fill: rgba(34, 211, 238, 0.14);
+  --accent-ink: #04121a;
+  --warn: #f59e0b;
+  --ok: #22c55e;
+  --err: #f7768e;
+  --blue: #22d3ee;
+  --blue-hover: #67e8f9;
+  --blue-ink: #04121a;
+  --coral: #ff5d3b;
+  --mint: #22c55e;
+  --sun: #f59e0b;
+  --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --card-shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.55);
+  --hero-grid: rgba(176, 199, 217, 0.04);
+}
+.light {
+  color-scheme: light;
+  --bg: #f2f4fb;
+  --surface: #ffffff;
+  --surface2: #eaf0ff;
+  --ink: #172042;
+  --muted: #5d667e;
+  --faint: #8b93ab;
+  --line: #e2e7f2;
+  --accent: #0891b2;
+  --accent-fill: rgba(8, 145, 178, 0.1);
+  --accent-ink: #ffffff;
+  --blue: #365aff;
+  --blue-hover: #4d6fff;
+  --blue-ink: #ffffff;
+  --coral: #ff5d3b;
+  --mint: #00b88a;
+  --sun: #ffc531;
+  --card-shadow: 0 1px 2px rgba(23, 32, 66, 0.06);
+  --card-shadow-hover: 0 8px 24px rgba(23, 32, 66, 0.1);
+  --hero-grid: rgba(54, 90, 255, 0.05);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-ui), system-ui, sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-display), var(--font-ui), system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.font-mono2 {
+  font-family: var(--font-mono), ui-monospace, monospace;
+}
+
+/* blueprint grid wash, hero only, static */
+.blueprint {
+  background-image:
+    linear-gradient(var(--hero-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--hero-grid) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+/* HUD chip — 11px uppercase mono */
+.hud {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* surfaces */
+.surface {
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+.surface2 {
+  background: var(--surface2);
+  border: 1px solid var(--line);
+}
+.t-muted {
+  color: var(--muted);
+}
+.t-faint {
+  color: var(--faint);
+}
+
+/* game card — chamfer cut on hover only */
+.game-card {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--card-shadow);
+  transition: transform 0.15s ease, border-color 0.15s ease;
+  will-change: transform;
+  cursor: pointer;
+}
+.game-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+}
+.game-card:hover .card-art img {
+  transform: scale(1.03);
+}
+.game-card:hover .card-play {
+  opacity: 1;
+}
+.card-art img {
+  transition: transform 0.2s ease;
+}
+.card-play {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+@media (max-width: 640px) {
+  .game-card:active {
+    transform: scale(0.97);
+  }
+}
+
+/* chips + buttons */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.chip:hover {
+  border-color: var(--accent);
+}
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  padding: 10px 22px;
+}
+.btn-primary:hover {
+  filter: brightness(1.1);
+}
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  font-weight: 600;
+  padding: 10px 22px;
+}
+.btn-ghost:hover {
+  border-color: var(--accent);
+}
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  min-width: 40px;
+  height: 40px;
+  padding: 0 10px;
+  font-weight: 700;
+}
+.icon-btn:hover {
+  border-color: var(--accent);
+}
+
+/* focus discipline: glow only on focus/active */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* horizontal snap rows */
+.snap-row {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 240px;
+  gap: 12px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 8px;
+  scrollbar-width: thin;
+}
+.snap-row > * {
+  scroll-snap-align: start;
+}
+@media (max-width: 640px) {
+  .snap-row {
+    grid-auto-columns: 180px;
+  }
+}
+
+/* skeleton — static hairline, sweep only while loading */
+.skel {
+  position: relative;
+  overflow: hidden;
+  background: var(--surface2);
+}
+.skel::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.07), transparent);
+  animation: skelsweep 1.6s linear infinite;
+}
+.light .skel::after {
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.5), transparent);
+}
+@keyframes skelsweep {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* facade pulse */
+.facade-glow {
+  box-shadow: 0 0 0 1px var(--line);
+}
+
+/* thin scrollbars */
+*::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #2a3348;
+  border-radius: 8px;
+}
+.light *::-webkit-scrollbar-thumb {
+  background: #b9c2da;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* entrance — 200ms max */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.fade-up {
+  animation: fadeUp 0.2s ease both;
+}
+
+/* staggered grid entrance (capped delay via --rd: 0..7) */
+.reveal {
+  opacity: 0;
+  animation: fadeUp 0.25s ease forwards;
+  animation-delay: calc(var(--rd, 0) * 45ms);
+}
+
+/* scroll-triggered reveal */
+.reveal-io {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.reveal-io.on {
+  opacity: 1;
+  transform: none;
+}
+
+/* hero ken-burns (art only, 9s drift) */
+@keyframes kenburns {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.07);
+  }
+}
+.kenburns img {
+  animation: kenburns 9s ease-in-out infinite alternate;
+}
+
+/* CTA pulse — one element at a time */
+@keyframes ctapulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(34, 211, 238, 0.45);
+  }
+  50% {
+    box-shadow: 0 0 0 9px rgba(34, 211, 238, 0);
+  }
+}
+.pulse-cta {
+  animation: ctapulse 2.2s ease-in-out infinite;
+}
+
+/* favorite/like pop */
+@keyframes pop {
+  0% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(1.35);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.pop {
+  animation: pop 0.3s ease;
+  display: inline-block;
+}
+
+/* trending ticker marquee */
+@keyframes ticker {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.ticker-track {
+  display: flex;
+  gap: 8px;
+  width: max-content;
+  animation: ticker 40s linear infinite;
+}
+.ticker:hover .ticker-track {
+  animation-play-state: paused;
+}
+
+/* press states */
+.pressable {
+  transition: transform 0.12s ease;
+}
+.pressable:active {
+  transform: scale(0.96);
+}
+.chip,
+.btn-primary,
+.btn-ghost,
+.icon-btn {
+  transition: transform 0.12s ease, border-color 0.15s ease, background 0.15s ease, filter 0.15s ease;
+}
+.chip:active,
+.btn-primary:active,
+.btn-ghost:active,
+.icon-btn:active {
+  transform: scale(0.96);
+}
+
+/* card overlay spring-in */
+.card-play > span {
+  transform: scale(0.7);
+  transition: transform 0.18s ease;
+}
+.game-card:hover .card-play > span {
+  transform: scale(1);
+}
+
+/* sidebar link */
+.side-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--muted);
+}
+.side-link:hover {
+  background: var(--surface2);
+  color: var(--ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
